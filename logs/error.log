@@ -1,0 +1,36 @@
+2023-10-31 05:56:18:5618 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 05:58:19:5819 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 05:59:36:5936 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:01:47:147 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:03:43:343 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:07:00:70 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:08:28:828 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:10:51:1051 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:12:17:1217 - [31merror[39m:[31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-10-31 06:12:32:1232 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:13:09:139 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:13:49:1349 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:15:47:1547 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:19:50:1950 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:21:52:2152 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:22:53:2253 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:23:41:2341 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:24:39:2439 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:29:53:2953 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:33:48:3348 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:34:40:3440 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:34:40:3440 - [31merror[39m:[31merro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2023-10-31 06:35:18:3518 - [31merror[39m:[31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-10-31 06:36:20:3620 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:36:20:3620 - [31merror[39m:[31merro: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/[39m
+2023-10-31 06:41:07:417 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:42:09:429 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:45:09:459 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:45:52:4552 - [31merror[39m:[31mErro no sistema: Operation `movies.insertOne()` buffering timed out after 10000ms[39m
+2023-10-31 06:45:56:4556 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:46:31:4631 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:49:52:4952 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-10-31 06:53:24:5324 - [31merror[39m:[31mNão foi possível connectar![39m
+2023-11-01 07:01:37:137 - [31merror[39m:[31mErro no sistema: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Movies"[39m
+2023-11-01 07:05:33:533 - [31merror[39m:[31mErro no sistema: Cast to ObjectId failed for value "65421faa237f57f02c35b73" (type string) at path "_id" for model "Movies"[39m
+2023-11-01 07:10:15:1015 - [31merror[39m:[31mErro no sistema: Cast to ObjectId failed for value "'65421e6e7f21fa6b8d5b432e'" (type string) at path "_id" for model "Movies"[39m
